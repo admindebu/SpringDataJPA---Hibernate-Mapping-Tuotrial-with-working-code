@@ -1,7 +1,8 @@
 # SpringDataJPA---Hibernate-Mapping-Tuotrial-with-working-code
 Code respository cotains complete SPring Data JPA &amp; Hibernate ManyToOne, OneToMany, OneToOne and ManyToMany mapping example with explanation
 
-Step 1 : Download the code & Extract it
+Step 1 : clone or fork the project code.
+
 Step 2 : Import as a existing maven project and Build the project with "maven clean install" command
 All the Videos Link 
 
