@@ -1,0 +1,3 @@
+[0.013s][info][gc,heap] Heap region size: 1M
+[0.018s][info][gc     ] Using G1
+[0.018s][info][gc,heap,coops] Heap address: 0x0000000703400000, size: 4044 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
