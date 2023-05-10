@@ -8,6 +8,8 @@ All the Videos Link
 
 ⏩ Hibernate and Spring Data JPA OneToMany, ManyToOne mapping tutorial with scenarios & coding | Part 1  : https://youtu.be/OnE0qi19hFQ
 
+⏩ Hibernate and Spring Data JPA ManyToMany mapping tutorial with scenarios & coding | Part 2  : https://youtu.be/aFf4JifUr4M
+
 ⏩ Hibernate and Spring Data JPA OneTOne mapping tutorial with scenarios & coding | Part 3  : https://youtu.be/54G7j8QGjaU
 
 ⏩  Spring Data JPA Beginner Tutorial :  https://www.youtube.com/watch?v=eXC0Gwjehts&list=PLRlT3yKdok6rFd0_O6-lpuIrNwFgxP_b8&index=43
